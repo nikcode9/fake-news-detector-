@@ -110,19 +110,3 @@ A logistic regression model is initialized using `LogisticRegression()` and trai
 4. The actual label is retrieved from the testing data (`Y_test[3]`) and compared to the prediction result to confirm correctness.
 
 Overall, this code demonstrates the process of building a fake news detector using a logistic regression model, including data preprocessing, stemming, TF-IDF vectorization, model training, and predictions.
-
-## Contributing
-
-Contributions to this repository are welcome! If you find any issues, have suggestions, or want to improve the code, feel free to submit a pull request.
-
-## Contact
-
-If you have any questions or want to connect, feel free to reach out:
-
-- GitHub: [arindal1](https://github.com/arindal1)
-- LinkedIn: [Arindal](https://www.linkedin.com/in/arindalchar/)
-- kaggle: [arindal](https://www.kaggle.com/arindal)
-- Dataset Link: <a href="https://www.kaggle.com/competitions/fake-news/data" target="_blank"> Kaggle </a>
-- Google Collab Link: <a href="https://colab.research.google.com/drive/1YxD2SRlRn9YfG5Lak7Pr9b8Y7bg6maOZ?authuser=0#scrollTo=HZtk5pq2T8Ey" target="_blank"> Collab </a>
-
-### Happy detecting and learning! 🕵️‍♂️
